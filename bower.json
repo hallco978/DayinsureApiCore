@@ -1,0 +1,27 @@
+{
+  "name": "DayinsureApiCore",
+  "main": "DayinsureApiCore.js",
+  "version": "0.0.0",
+  "authors": [
+    "James Tryand <james.tryand@dayinsure.com>"
+  ],
+  "description": "Core Factory To Call (Our) REST APIs",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "dayinsure"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": [
+    "angular": "~1.2.18"
+  ]
+}
